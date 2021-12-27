@@ -14,9 +14,6 @@ import javax.transaction.Transactional;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by burakkutbay on 14.02.2019.
- */
 
 @Transactional
 @Service

@@ -12,10 +12,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.validation.Valid;
 
-/**
- * Created by burakkutbay on 14.02.2019.
- */
-
 @Controller
 public class UserController {
     @Autowired

@@ -3,10 +3,6 @@ package com.exam.model;
 import javax.persistence.*;
 import java.util.Collection;
 
-/**
- * Created by burakkutbay on 14.02.2019.
- */
-
 @Entity
 @Table(name = "personal")
 public class User {

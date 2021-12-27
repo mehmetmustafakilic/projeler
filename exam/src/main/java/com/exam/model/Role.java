@@ -3,9 +3,6 @@ package com.exam.model;
 import javax.persistence.*;
 import java.util.Collection;
 
-/**
- * Created by burakkutbay on 14.02.2019.
- */
 
 @Entity
 public class Role {
